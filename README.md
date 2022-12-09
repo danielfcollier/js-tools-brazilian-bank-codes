@@ -13,3 +13,11 @@ This tool formats and generates CSV/JSON files from the official source of truth
 ```bash
 npm start
 ```
+
+## Run with Docker
+
+On the project directory, just run:
+
+```bash
+make
+```
