@@ -1,0 +1,1950 @@
+{
+  "source": "https://www.bcb.gov.br",
+  "updatedAt": "2022-12-09",
+  "data": [
+    {
+      "countryId": 1,
+      "bankCode": "001",
+      "ispb": "00000000",
+      "bankName": "Banco do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "003",
+      "ispb": "04902979",
+      "bankName": "Banco da Amazonia S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "004",
+      "ispb": "07237373",
+      "bankName": "Banco do Nordeste do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "007",
+      "ispb": "33657248",
+      "bankName": "BNDES"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "010",
+      "ispb": "81723108",
+      "bankName": "Credicoamo"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "011",
+      "ispb": "61809182",
+      "bankName": "C.suisse Hedging-griffo CV S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "012",
+      "ispb": "04866275",
+      "bankName": "Banco Inbursa"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "014",
+      "ispb": "09274232",
+      "bankName": "State Street BR S.A. Banco Comercial"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "015",
+      "ispb": "02819125",
+      "bankName": "UBS Brasil CCTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "016",
+      "ispb": "04715685",
+      "bankName": "CCM Desp Trâns SC E RS"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "017",
+      "ispb": "42272526",
+      "bankName": "BNY Mellon Banco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "018",
+      "ispb": "57839805",
+      "bankName": "Banco Tricury S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "021",
+      "ispb": "28127603",
+      "bankName": "Banco Banestes S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "024",
+      "ispb": "10866788",
+      "bankName": "Banco Bandepe S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "025",
+      "ispb": "03323840",
+      "bankName": "Banco Alfa S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "029",
+      "ispb": "33885724",
+      "bankName": "Banco Itaú Consignado S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "033",
+      "ispb": "90400888",
+      "bankName": "Banco Santander (brasil) S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "036",
+      "ispb": "06271464",
+      "bankName": "Banco BBI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "037",
+      "ispb": "04913711",
+      "bankName": "Banco do Est. do PA S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "040",
+      "ispb": "03609817",
+      "bankName": "Banco Cargill S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "041",
+      "ispb": "92702067",
+      "bankName": "Banco do Estado do RS S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "047",
+      "ispb": "13009717",
+      "bankName": "Banco do Est. de SE S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "060",
+      "ispb": "04913129",
+      "bankName": "Confidence CC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "062",
+      "ispb": "03012230",
+      "bankName": "Hipercard BM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "063",
+      "ispb": "04184779",
+      "bankName": "Banco Bradescard"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "064",
+      "ispb": "04332281",
+      "bankName": "Goldman Sachs do Brasil BM S.A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "065",
+      "ispb": "48795256",
+      "bankName": "Banco Andbank S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "066",
+      "ispb": "02801938",
+      "bankName": "Banco Morgan Stanley S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "069",
+      "ispb": "61033106",
+      "bankName": "Banco Crefisa S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "070",
+      "ispb": "00000208",
+      "bankName": "BRB - Banco de Brasilia S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "074",
+      "ispb": "03017677",
+      "bankName": "Banco J.safra S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "075",
+      "ispb": "03532415",
+      "bankName": "Banco Abn Amro S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "076",
+      "ispb": "07656500",
+      "bankName": "Banco KDB Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "077",
+      "ispb": "00416968",
+      "bankName": "Banco Inter"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "078",
+      "ispb": "34111187",
+      "bankName": "Haitong BI do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "079",
+      "ispb": "09516419",
+      "bankName": "Picpay Bank - Banco Múltiplo S.A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "080",
+      "ispb": "73622748",
+      "bankName": "B&T CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "081",
+      "ispb": "10264663",
+      "bankName": "Bancoseguro S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "082",
+      "ispb": "07679404",
+      "bankName": "Banco Topázio S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "083",
+      "ispb": "10690848",
+      "bankName": "Banco da China Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "084",
+      "ispb": "02398976",
+      "bankName": "Uniprime do Brasil - Coop"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "085",
+      "ispb": "05463212",
+      "bankName": "Coopcentral Ailos"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "088",
+      "ispb": "11476673",
+      "bankName": "Banco Randon S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "089",
+      "ispb": "62109566",
+      "bankName": "Credisan CC"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "092",
+      "ispb": "12865507",
+      "bankName": "BRK S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "093",
+      "ispb": "07945233",
+      "bankName": "Polocred SCMEPP LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "094",
+      "ispb": "11758741",
+      "bankName": "Banco Finaxis"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "095",
+      "ispb": "11703662",
+      "bankName": "Travelex Banco de Câmbio S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "096",
+      "ispb": "00997185",
+      "bankName": "Banco B3 S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "097",
+      "ispb": "04632856",
+      "bankName": "Credisis Central de Cooperativas de Crédito LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "098",
+      "ispb": "78157146",
+      "bankName": "Credialiança CCR"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "099",
+      "ispb": "03046391",
+      "bankName": "Uniprime Coopcentral LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "100",
+      "ispb": "00806535",
+      "bankName": "Planner CV S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "101",
+      "ispb": "62287735",
+      "bankName": "Renascenca DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "102",
+      "ispb": "02332886",
+      "bankName": "XP Investimentos CCTVM S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "104",
+      "ispb": "00360305",
+      "bankName": "Caixa Economica Federal"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "105",
+      "ispb": "07652226",
+      "bankName": "Lecca CFI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "107",
+      "ispb": "15114366",
+      "bankName": "Banco Bocom BBM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "108",
+      "ispb": "01800019",
+      "bankName": "Portocred S.A. - CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "111",
+      "ispb": "36113876",
+      "bankName": "Oliveira Trust DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "113",
+      "ispb": "61723847",
+      "bankName": "Neon CTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "114",
+      "ispb": "05790149",
+      "bankName": "Central Cooperativa de Crédito no Estado do Espírito Santo"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "117",
+      "ispb": "92856905",
+      "bankName": "Advanced CC LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "119",
+      "ispb": "13720915",
+      "bankName": "Banco Western Union"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "120",
+      "ispb": "33603457",
+      "bankName": "Banco Rodobens S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "121",
+      "ispb": "10664513",
+      "bankName": "Banco Agibank S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "122",
+      "ispb": "33147315",
+      "bankName": "Banco Bradesco BERJ S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "124",
+      "ispb": "15357060",
+      "bankName": "Banco Woori Bank do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "125",
+      "ispb": "45246410",
+      "bankName": "Banco Genial"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "126",
+      "ispb": "13220493",
+      "bankName": "BR Partners BI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "127",
+      "ispb": "09512542",
+      "bankName": "Codepe CVC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "128",
+      "ispb": "19307785",
+      "bankName": "MS Bank S.A. Banco de Câmbio"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "129",
+      "ispb": "18520834",
+      "bankName": "UBS Brasil BI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "130",
+      "ispb": "09313766",
+      "bankName": "Caruana SCFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "131",
+      "ispb": "61747085",
+      "bankName": "Tullett Prebon Brasil CVC LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "132",
+      "ispb": "17453575",
+      "bankName": "Icbc do Brasil BM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "133",
+      "ispb": "10398952",
+      "bankName": "Cresol Confederação"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "134",
+      "ispb": "33862244",
+      "bankName": "BGC Liquidez DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "136",
+      "ispb": "00315557",
+      "bankName": "Conf Nac Coop Centrais Unicred"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "138",
+      "ispb": "10853017",
+      "bankName": "Get Money CC LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "139",
+      "ispb": "55230916",
+      "bankName": "Intesa Sanpaolo Brasil S.A. BM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "140",
+      "ispb": "62169875",
+      "bankName": "NU Invest Corretora de Valores S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "142",
+      "ispb": "16944141",
+      "bankName": "Broker Brasil CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "143",
+      "ispb": "02992317",
+      "bankName": "Treviso CC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "144",
+      "ispb": "13059145",
+      "bankName": "Bexs Banco de Cambio S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "145",
+      "ispb": "50579044",
+      "bankName": "Levycam CCV LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "146",
+      "ispb": "24074692",
+      "bankName": "Guitta CC LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "149",
+      "ispb": "15581638",
+      "bankName": "Facta S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "157",
+      "ispb": "09105360",
+      "bankName": "Icap do Brasil CTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "159",
+      "ispb": "05442029",
+      "bankName": "Casa Credito S.A. SCM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "163",
+      "ispb": "23522214",
+      "bankName": "Commerzbank Brasil S.A. - Banco Múltiplo"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "173",
+      "ispb": "13486793",
+      "bankName": "BRL Trust DTVM SA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "174",
+      "ispb": "43180355",
+      "bankName": "Pefisa S.A. - C.F.I."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "177",
+      "ispb": "65913436",
+      "bankName": "Guide"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "180",
+      "ispb": "02685483",
+      "bankName": "CM Capital Markets CCTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "183",
+      "ispb": "09210106",
+      "bankName": "Socred SA - SCMEPP"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "184",
+      "ispb": "17298092",
+      "bankName": "Banco Itaú Bba S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "188",
+      "ispb": "33775974",
+      "bankName": "Ativa S.A. Investimentos CCTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "189",
+      "ispb": "07512441",
+      "bankName": "HS Financeira"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "190",
+      "ispb": "03973814",
+      "bankName": "Servicoop"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "191",
+      "ispb": "04257795",
+      "bankName": "Nova Futura CTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "194",
+      "ispb": "20155248",
+      "bankName": "Parmetal DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "195",
+      "ispb": "07799277",
+      "bankName": "Valor SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "196",
+      "ispb": "32648370",
+      "bankName": "Fair CC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "197",
+      "ispb": "16501555",
+      "bankName": "Stone IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "208",
+      "ispb": "30306294",
+      "bankName": "Banco Btg Pactual S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "212",
+      "ispb": "92894922",
+      "bankName": "Banco Original"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "213",
+      "ispb": "54403563",
+      "bankName": "Banco Arbi S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "217",
+      "ispb": "91884981",
+      "bankName": "Banco John Deere S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "218",
+      "ispb": "71027866",
+      "bankName": "Banco Bs2 S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "222",
+      "ispb": "75647891",
+      "bankName": "Banco Crédit Agricole BR S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "224",
+      "ispb": "58616418",
+      "bankName": "Banco Fibra S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "233",
+      "ispb": "62421979",
+      "bankName": "Banco Cifra"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "237",
+      "ispb": "60746948",
+      "bankName": "Banco Bradesco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "241",
+      "ispb": "31597552",
+      "bankName": "Banco Classico S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "243",
+      "ispb": "33923798",
+      "bankName": "Banco Master"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "246",
+      "ispb": "28195667",
+      "bankName": "Banco Abc Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "249",
+      "ispb": "61182408",
+      "bankName": "Banco Investcred Unibanco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "253",
+      "ispb": "52937216",
+      "bankName": "Bexs CC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "254",
+      "ispb": "14388334",
+      "bankName": "Parana Banco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "259",
+      "ispb": "08609934",
+      "bankName": "Moneycorp Banco de Câmbio S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "260",
+      "ispb": "18236120",
+      "bankName": "NU Pagamentos - IP"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "265",
+      "ispb": "33644196",
+      "bankName": "Banco Fator S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "266",
+      "ispb": "33132044",
+      "bankName": "Banco Cedula S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "268",
+      "ispb": "14511781",
+      "bankName": "Bari CIA Hipotecária"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "269",
+      "ispb": "53518684",
+      "bankName": "Banco HSBC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "270",
+      "ispb": "61444949",
+      "bankName": "Sagitur CC"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "271",
+      "ispb": "27842177",
+      "bankName": "IB CCTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "272",
+      "ispb": "00250699",
+      "bankName": "AGK CC S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "273",
+      "ispb": "08253539",
+      "bankName": "CCR de São Miguel do Oeste"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "274",
+      "ispb": "11581339",
+      "bankName": "Bmp SCMEPP LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "276",
+      "ispb": "11970623",
+      "bankName": "Banco Senff S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "278",
+      "ispb": "27652684",
+      "bankName": "Genial Investimentos CVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "279",
+      "ispb": "26563270",
+      "bankName": "Coop de Primavera do Leste"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "280",
+      "ispb": "23862762",
+      "bankName": "Will Financeira S.A.CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "281",
+      "ispb": "76461557",
+      "bankName": "CCR Coopavel"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "283",
+      "ispb": "89960090",
+      "bankName": "RB Investimentos DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "285",
+      "ispb": "71677850",
+      "bankName": "Frente CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "286",
+      "ispb": "07853842",
+      "bankName": "CCR de Ouro"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "288",
+      "ispb": "62237649",
+      "bankName": "Carol DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "289",
+      "ispb": "94968518",
+      "bankName": "EFX CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "290",
+      "ispb": "08561701",
+      "bankName": "Pagseguro Internet IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "292",
+      "ispb": "28650236",
+      "bankName": "Bs2 DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "293",
+      "ispb": "71590442",
+      "bankName": "Lastro RDV DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "296",
+      "ispb": "04062902",
+      "bankName": "OZ Corretora de Câmbio S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "298",
+      "ispb": "17772370",
+      "bankName": "Vips CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "299",
+      "ispb": "04814563",
+      "bankName": "Banco Sorocred S.A. - BM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "300",
+      "ispb": "33042151",
+      "bankName": "Banco la Nacion Argentina"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "301",
+      "ispb": "13370835",
+      "bankName": "Dock IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "306",
+      "ispb": "40303299",
+      "bankName": "Portopar DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "307",
+      "ispb": "03751794",
+      "bankName": "Terra Investimentos DTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "309",
+      "ispb": "14190547",
+      "bankName": "Cambionet CC LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "310",
+      "ispb": "22610500",
+      "bankName": "Vortx DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "311",
+      "ispb": "76641497",
+      "bankName": "Dourada Corretora"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "312",
+      "ispb": "07693858",
+      "bankName": "Hscm SCMEPP LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "313",
+      "ispb": "16927221",
+      "bankName": "Amazônia CC LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "318",
+      "ispb": "61186680",
+      "bankName": "Banco BMG S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "319",
+      "ispb": "11495073",
+      "bankName": "OM DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "320",
+      "ispb": "07450604",
+      "bankName": "Banco Ccb Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "321",
+      "ispb": "18188384",
+      "bankName": "Crefaz SCMEPP LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "322",
+      "ispb": "01073966",
+      "bankName": "CCR de Abelardo Luz"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "323",
+      "ispb": "10573521",
+      "bankName": "Mercado Pago IP LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "324",
+      "ispb": "21332862",
+      "bankName": "Cartos SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "325",
+      "ispb": "13293225",
+      "bankName": "Órama DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "326",
+      "ispb": "03311443",
+      "bankName": "Parati - CFI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "328",
+      "ispb": "05841967",
+      "bankName": "CECM Fabric Calçados Sapiranga"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "329",
+      "ispb": "32402502",
+      "bankName": "QI SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "330",
+      "ispb": "00556603",
+      "bankName": "Banco Bari S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "331",
+      "ispb": "13673855",
+      "bankName": "Fram Capital DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "332",
+      "ispb": "13140088",
+      "bankName": "Acesso Solucoes Pagamento SA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "335",
+      "ispb": "27098060",
+      "bankName": "Banco Digio"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "336",
+      "ispb": "31872495",
+      "bankName": "Banco C6 S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "340",
+      "ispb": "09554480",
+      "bankName": "Superdigital I.P. S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "341",
+      "ispb": "60701190",
+      "bankName": "Itaú Unibanco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "342",
+      "ispb": "32997490",
+      "bankName": "Creditas SCD"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "343",
+      "ispb": "24537861",
+      "bankName": "FFA SCMEPP LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "348",
+      "ispb": "33264668",
+      "bankName": "Banco XP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "349",
+      "ispb": "27214112",
+      "bankName": "Al5 S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "350",
+      "ispb": "01330387",
+      "bankName": "Crehnor Laranjeiras"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "352",
+      "ispb": "29162769",
+      "bankName": "Toro CTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "355",
+      "ispb": "34335592",
+      "bankName": "Ótimo SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "358",
+      "ispb": "09464032",
+      "bankName": "Midway S.A. - SCFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "359",
+      "ispb": "05351887",
+      "bankName": "Zema CFI S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "360",
+      "ispb": "02276653",
+      "bankName": "Trinus Capital DTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "362",
+      "ispb": "01027058",
+      "bankName": "Cielo IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "363",
+      "ispb": "62285390",
+      "bankName": "Singulare CTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "364",
+      "ispb": "09089356",
+      "bankName": "Gerencianet"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "365",
+      "ispb": "68757681",
+      "bankName": "Simpaul"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "366",
+      "ispb": "61533584",
+      "bankName": "Banco Societe Generale Brasil"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "367",
+      "ispb": "34711571",
+      "bankName": "Vitreo DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "368",
+      "ispb": "08357240",
+      "bankName": "Banco CSF S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "370",
+      "ispb": "61088183",
+      "bankName": "Banco Mizuho S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "371",
+      "ispb": "92875780",
+      "bankName": "Warren Cvmc LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "373",
+      "ispb": "35977097",
+      "bankName": "Up.p Sep S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "374",
+      "ispb": "27351731",
+      "bankName": "Realize CFI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "376",
+      "ispb": "33172537",
+      "bankName": "Banco J.p. Morgan S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "377",
+      "ispb": "17826860",
+      "bankName": "BMS SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "378",
+      "ispb": "01852137",
+      "bankName": "Banco Brasileiro de Crédito S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "379",
+      "ispb": "01658426",
+      "bankName": "CECM Cooperforte"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "380",
+      "ispb": "22896431",
+      "bankName": "Picpay"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "381",
+      "ispb": "60814191",
+      "bankName": "Banco Mercedes-benz S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "382",
+      "ispb": "04307598",
+      "bankName": "Fiducia SCMEPP LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "383",
+      "ispb": "21018182",
+      "bankName": "Ebanx IP LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "384",
+      "ispb": "11165756",
+      "bankName": "Global SCM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "385",
+      "ispb": "03844699",
+      "bankName": "CECM Dos Trab.port. da G.vitor"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "386",
+      "ispb": "30680829",
+      "bankName": "NU Financeira S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "387",
+      "ispb": "03215790",
+      "bankName": "Banco Toyota do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "389",
+      "ispb": "17184037",
+      "bankName": "Banco Mercantil do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "390",
+      "ispb": "59274605",
+      "bankName": "Banco GM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "391",
+      "ispb": "08240446",
+      "bankName": "CCR de Ibiam"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "393",
+      "ispb": "59109165",
+      "bankName": "Banco Volkswagen S.A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "394",
+      "ispb": "07207996",
+      "bankName": "Banco Bradesco Financ. S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "395",
+      "ispb": "08673569",
+      "bankName": "F D Gold DTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "396",
+      "ispb": "13884775",
+      "bankName": "Hub IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "397",
+      "ispb": "34088029",
+      "bankName": "Listo SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "398",
+      "ispb": "31749596",
+      "bankName": "Ideal CTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "399",
+      "ispb": "01701201",
+      "bankName": "Kirton Bank"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "400",
+      "ispb": "05491616",
+      "bankName": "Coop Creditag"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "401",
+      "ispb": "15111975",
+      "bankName": "Iugu IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "402",
+      "ispb": "36947229",
+      "bankName": "Cobuccio SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "403",
+      "ispb": "37880206",
+      "bankName": "Cora SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "404",
+      "ispb": "37241230",
+      "bankName": "Sumup SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "406",
+      "ispb": "37715993",
+      "bankName": "Accredito SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "407",
+      "ispb": "00329598",
+      "bankName": "Índigo Investimentos DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "408",
+      "ispb": "36586946",
+      "bankName": "Bonuspago SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "410",
+      "ispb": "05684234",
+      "bankName": "Planner Sociedade de Crédito Direto"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "411",
+      "ispb": "05192316",
+      "bankName": "Via Certa Financiadora S.A. - CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "412",
+      "ispb": "15173776",
+      "bankName": "Social Bank S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "413",
+      "ispb": "01858774",
+      "bankName": "Banco BV S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "414",
+      "ispb": "37526080",
+      "bankName": "Work SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "416",
+      "ispb": "19324634",
+      "bankName": "Lamara SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "418",
+      "ispb": "37414009",
+      "bankName": "Zipdin SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "419",
+      "ispb": "38129006",
+      "bankName": "Numbrs SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "421",
+      "ispb": "39343350",
+      "bankName": "CC Lar Credi"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "422",
+      "ispb": "58160789",
+      "bankName": "Banco Safra S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "423",
+      "ispb": "00460065",
+      "bankName": "Coluna S.A. DTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "425",
+      "ispb": "03881423",
+      "bankName": "Socinal S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "426",
+      "ispb": "11285104",
+      "bankName": "Biorc Financeira - CFI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "427",
+      "ispb": "27302181",
+      "bankName": "Cred-ufes"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "428",
+      "ispb": "39664698",
+      "bankName": "Credsystem SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "429",
+      "ispb": "05676026",
+      "bankName": "Crediare CFI S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "430",
+      "ispb": "00204963",
+      "bankName": "CCR Seara"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "433",
+      "ispb": "44077014",
+      "bankName": "Br-capital DTVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "435",
+      "ispb": "38224857",
+      "bankName": "Delcred SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "438",
+      "ispb": "67030395",
+      "bankName": "Trustee DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "439",
+      "ispb": "16695922",
+      "bankName": "ID CTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "440",
+      "ispb": "82096447",
+      "bankName": "Credibrf Coop"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "442",
+      "ispb": "87963450",
+      "bankName": "Magnetis - DTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "443",
+      "ispb": "39416705",
+      "bankName": "Credihome SCD"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "444",
+      "ispb": "40654622",
+      "bankName": "Trinus SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "445",
+      "ispb": "35551187",
+      "bankName": "Plantae CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "447",
+      "ispb": "12392983",
+      "bankName": "Mirae Asset CCTVM LTDA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "448",
+      "ispb": "39669186",
+      "bankName": "Hemera DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "449",
+      "ispb": "37555231",
+      "bankName": "Dmcard SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "450",
+      "ispb": "13203354",
+      "bankName": "Fitbank Pagamentos Eletronicos S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "451",
+      "ispb": "40475846",
+      "bankName": "J17 - SCD S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "452",
+      "ispb": "39676772",
+      "bankName": "Credifit SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "454",
+      "ispb": "41592532",
+      "bankName": "Mérito DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "456",
+      "ispb": "60498557",
+      "bankName": "Banco Mufg Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "457",
+      "ispb": "39587424",
+      "bankName": "UY3 SCD S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "458",
+      "ispb": "07253654",
+      "bankName": "Hedge Investments DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "459",
+      "ispb": "04546162",
+      "bankName": "CCM Serv. Públicos SP"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "460",
+      "ispb": "42047025",
+      "bankName": "Unavanti SCD S/A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "461",
+      "ispb": "19540550",
+      "bankName": "Asaas IP S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "462",
+      "ispb": "39908427",
+      "bankName": "Stark SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "463",
+      "ispb": "40434681",
+      "bankName": "Azumi DTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "464",
+      "ispb": "60518222",
+      "bankName": "Banco Sumitomo Mitsui Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "465",
+      "ispb": "40083667",
+      "bankName": "Capital Consig SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "467",
+      "ispb": "33886862",
+      "bankName": "Master S/A CCTVM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "468",
+      "ispb": "04862600",
+      "bankName": "Portoseg S.A. CFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "469",
+      "ispb": "07138049",
+      "bankName": "Liga Invest DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "470",
+      "ispb": "18394228",
+      "bankName": "CDC Sociedade de Crédito"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "471",
+      "ispb": "04831810",
+      "bankName": "CECM Serv Publ Pinhão"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "473",
+      "ispb": "33466988",
+      "bankName": "Banco Caixa Geral Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "475",
+      "ispb": "10371492",
+      "bankName": "Banco Yamaha Motor S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "477",
+      "ispb": "33042953",
+      "bankName": "Citibank N.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "478",
+      "ispb": "11760553",
+      "bankName": "Gazincred S.A. SCFI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "479",
+      "ispb": "60394079",
+      "bankName": "Banco Itaubank S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "481",
+      "ispb": "43599047",
+      "bankName": "Superlógica SCD S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "482",
+      "ispb": "42259084",
+      "bankName": "Sbcash SCD"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "484",
+      "ispb": "36864992",
+      "bankName": "Maf DTVM SA"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "487",
+      "ispb": "62331228",
+      "bankName": "Deutsche Bank S.a.bco Alemao"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "488",
+      "ispb": "46518205",
+      "bankName": "Jpmorgan Chase Bank"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "495",
+      "ispb": "44189447",
+      "bankName": "Banco la Provincia B Aires Bce"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "505",
+      "ispb": "32062580",
+      "bankName": "Banco Credit Suisse S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "506",
+      "ispb": "42066258",
+      "bankName": "RJI"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "508",
+      "ispb": "61384004",
+      "bankName": "Avenue Securities DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "511",
+      "ispb": "44683140",
+      "bankName": "Magnum SCD"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "512",
+      "ispb": "36266751",
+      "bankName": "Captalys DTVM LTDA."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "545",
+      "ispb": "17352220",
+      "bankName": "Senso CCVM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "600",
+      "ispb": "59118133",
+      "bankName": "Banco Luso Brasileiro S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "604",
+      "ispb": "31895683",
+      "bankName": "Banco Industrial do Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "610",
+      "ispb": "78626983",
+      "bankName": "Banco VR S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "611",
+      "ispb": "61820817",
+      "bankName": "Banco Paulista S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "612",
+      "ispb": "31880826",
+      "bankName": "Banco Guanabara S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "613",
+      "ispb": "60850229",
+      "bankName": "Omni Banco S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "623",
+      "ispb": "59285411",
+      "bankName": "Banco Pan"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "626",
+      "ispb": "61348538",
+      "bankName": "Banco C6 Consig"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "630",
+      "ispb": "58497702",
+      "bankName": "Banco Letsbank S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "633",
+      "ispb": "68900810",
+      "bankName": "Banco Rendimento S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "634",
+      "ispb": "17351180",
+      "bankName": "Banco Triangulo S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "637",
+      "ispb": "60889128",
+      "bankName": "Banco Sofisa S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "643",
+      "ispb": "62144175",
+      "bankName": "Banco Pine S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "652",
+      "ispb": "60872504",
+      "bankName": "Itaú Unibanco Holding S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "653",
+      "ispb": "61024352",
+      "bankName": "Banco Voiter"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "654",
+      "ispb": "92874270",
+      "bankName": "Banco Digimais S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "655",
+      "ispb": "59588111",
+      "bankName": "Banco Votorantim S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "707",
+      "ispb": "62232889",
+      "bankName": "Banco Daycoval S.A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "712",
+      "ispb": "78632767",
+      "bankName": "Banco Ourinvest S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "720",
+      "ispb": "80271455",
+      "bankName": "Banco RNX S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "739",
+      "ispb": "00558456",
+      "bankName": "Banco Cetelem S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "741",
+      "ispb": "00517645",
+      "bankName": "Banco Ribeirao Preto S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "743",
+      "ispb": "00795423",
+      "bankName": "Banco Semear"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "745",
+      "ispb": "33479023",
+      "bankName": "Banco Citibank S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "746",
+      "ispb": "30723886",
+      "bankName": "Banco Modal S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "747",
+      "ispb": "01023570",
+      "bankName": "Banco Rabobank Intl Brasil S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "748",
+      "ispb": "01181521",
+      "bankName": "Banco Cooperativo Sicredi S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "751",
+      "ispb": "29030467",
+      "bankName": "Scotiabank Brasil"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "752",
+      "ispb": "01522368",
+      "bankName": "Banco BNP Paribas Brasil S A"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "753",
+      "ispb": "74828799",
+      "bankName": "Novo Banco Continental S.A. - BM"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "754",
+      "ispb": "76543115",
+      "bankName": "Banco Sistema"
+    },
+    {
+      "countryId": 1,
+      "bankCode": "755",
+      "ispb": "62073200",
+      "bankName": "Bofa Merrill Lynch BM S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "756",
+      "ispb": "02038232",
+      "bankName": "Banco Sicoob S.A."
+    },
+    {
+      "countryId": 1,
+      "bankCode": "757",
+      "ispb": "02318507",
+      "bankName": "Banco Keb Hana do Brasil S.A."
+    }
+  ]
+}

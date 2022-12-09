@@ -1,0 +1,325 @@
+countryId,bankCode,ispb,bankName
+1,001,00000000,Banco do Brasil S.A.
+1,003,04902979,Banco da Amazonia S.A.
+1,004,07237373,Banco do Nordeste do Brasil S.A.
+1,007,33657248,BNDES
+1,010,81723108,Credicoamo
+1,011,61809182,C.suisse Hedging-griffo CV S/A
+1,012,04866275,Banco Inbursa
+1,014,09274232,State Street BR S.A. Banco Comercial
+1,015,02819125,UBS Brasil CCTVM S.A.
+1,016,04715685,CCM Desp Trâns SC E RS
+1,017,42272526,BNY Mellon Banco S.A.
+1,018,57839805,Banco Tricury S.A.
+1,021,28127603,Banco Banestes S.A.
+1,024,10866788,Banco Bandepe S.A.
+1,025,03323840,Banco Alfa S.A.
+1,029,33885724,Banco Itaú Consignado S.A.
+1,033,90400888,Banco Santander (brasil) S.A.
+1,036,06271464,Banco BBI S.A.
+1,037,04913711,Banco do Est. do PA S.A.
+1,040,03609817,Banco Cargill S.A.
+1,041,92702067,Banco do Estado do RS S.A.
+1,047,13009717,Banco do Est. de SE S.A.
+1,060,04913129,Confidence CC S.A.
+1,062,03012230,Hipercard BM S.A.
+1,063,04184779,Banco Bradescard
+1,064,04332281,Goldman Sachs do Brasil BM S.A
+1,065,48795256,Banco Andbank S.A.
+1,066,02801938,Banco Morgan Stanley S.A.
+1,069,61033106,Banco Crefisa S.A.
+1,070,00000208,BRB - Banco de Brasilia S.A.
+1,074,03017677,Banco J.safra S.A.
+1,075,03532415,Banco Abn Amro S.A.
+1,076,07656500,Banco KDB Brasil S.A.
+1,077,00416968,Banco Inter
+1,078,34111187,Haitong BI do Brasil S.A.
+1,079,09516419,Picpay Bank - Banco Múltiplo S.A
+1,080,73622748,B&T CC LTDA.
+1,081,10264663,Bancoseguro S.A.
+1,082,07679404,Banco Topázio S.A.
+1,083,10690848,Banco da China Brasil S.A.
+1,084,02398976,Uniprime do Brasil - Coop
+1,085,05463212,Coopcentral Ailos
+1,088,11476673,Banco Randon S.A.
+1,089,62109566,Credisan CC
+1,092,12865507,BRK S.A. CFI
+1,093,07945233,Polocred SCMEPP LTDA.
+1,094,11758741,Banco Finaxis
+1,095,11703662,Travelex Banco de Câmbio S.A.
+1,096,00997185,Banco B3 S.A.
+1,097,04632856,Credisis Central de Cooperativas de Crédito LTDA.
+1,098,78157146,Credialiança CCR
+1,099,03046391,Uniprime Coopcentral LTDA.
+1,100,00806535,Planner CV S.A.
+1,101,62287735,Renascenca DTVM LTDA
+1,102,02332886,XP Investimentos CCTVM S/A
+1,104,00360305,Caixa Economica Federal
+1,105,07652226,Lecca CFI S.A.
+1,107,15114366,Banco Bocom BBM S.A.
+1,108,01800019,Portocred S.A. - CFI
+1,111,36113876,Oliveira Trust DTVM S.A.
+1,113,61723847,Neon CTVM S.A.
+1,114,05790149,Central Cooperativa de Crédito no Estado do Espírito Santo
+1,117,92856905,Advanced CC LTDA
+1,119,13720915,Banco Western Union
+1,120,33603457,Banco Rodobens S.A.
+1,121,10664513,Banco Agibank S.A.
+1,122,33147315,Banco Bradesco BERJ S.A.
+1,124,15357060,Banco Woori Bank do Brasil S.A.
+1,125,45246410,Banco Genial
+1,126,13220493,BR Partners BI
+1,127,09512542,Codepe CVC S.A.
+1,128,19307785,MS Bank S.A. Banco de Câmbio
+1,129,18520834,UBS Brasil BI S.A.
+1,130,09313766,Caruana SCFI
+1,131,61747085,Tullett Prebon Brasil CVC LTDA
+1,132,17453575,Icbc do Brasil BM S.A.
+1,133,10398952,Cresol Confederação
+1,134,33862244,BGC Liquidez DTVM LTDA
+1,136,00315557,Conf Nac Coop Centrais Unicred
+1,138,10853017,Get Money CC LTDA
+1,139,55230916,Intesa Sanpaolo Brasil S.A. BM
+1,140,62169875,NU Invest Corretora de Valores S.A.
+1,142,16944141,Broker Brasil CC LTDA.
+1,143,02992317,Treviso CC S.A.
+1,144,13059145,Bexs Banco de Cambio S.A.
+1,145,50579044,Levycam CCV LTDA
+1,146,24074692,Guitta CC LTDA
+1,149,15581638,Facta S.A. CFI
+1,157,09105360,Icap do Brasil CTVM LTDA.
+1,159,05442029,Casa Credito S.A. SCM
+1,163,23522214,Commerzbank Brasil S.A. - Banco Múltiplo
+1,173,13486793,BRL Trust DTVM SA
+1,174,43180355,Pefisa S.A. - C.F.I.
+1,177,65913436,Guide
+1,180,02685483,CM Capital Markets CCTVM LTDA
+1,183,09210106,Socred SA - SCMEPP
+1,184,17298092,Banco Itaú Bba S.A.
+1,188,33775974,Ativa S.A. Investimentos CCTVM
+1,189,07512441,HS Financeira
+1,190,03973814,Servicoop
+1,191,04257795,Nova Futura CTVM LTDA.
+1,194,20155248,Parmetal DTVM LTDA
+1,195,07799277,Valor SCD S.A.
+1,196,32648370,Fair CC S.A.
+1,197,16501555,Stone IP S.A.
+1,208,30306294,Banco Btg Pactual S.A.
+1,212,92894922,Banco Original
+1,213,54403563,Banco Arbi S.A.
+1,217,91884981,Banco John Deere S.A.
+1,218,71027866,Banco Bs2 S.A.
+1,222,75647891,Banco Crédit Agricole BR S.A.
+1,224,58616418,Banco Fibra S.A.
+1,233,62421979,Banco Cifra
+1,237,60746948,Banco Bradesco S.A.
+1,241,31597552,Banco Classico S.A.
+1,243,33923798,Banco Master
+1,246,28195667,Banco Abc Brasil S.A.
+1,249,61182408,Banco Investcred Unibanco S.A.
+1,253,52937216,Bexs CC S.A.
+1,254,14388334,Parana Banco S.A.
+1,259,08609934,Moneycorp Banco de Câmbio S.A.
+1,260,18236120,NU Pagamentos - IP
+1,265,33644196,Banco Fator S.A.
+1,266,33132044,Banco Cedula S.A.
+1,268,14511781,Bari CIA Hipotecária
+1,269,53518684,Banco HSBC S.A.
+1,270,61444949,Sagitur CC
+1,271,27842177,IB CCTVM S.A.
+1,272,00250699,AGK CC S.A.
+1,273,08253539,CCR de São Miguel do Oeste
+1,274,11581339,Bmp SCMEPP LTDA
+1,276,11970623,Banco Senff S.A.
+1,278,27652684,Genial Investimentos CVM S.A.
+1,279,26563270,Coop de Primavera do Leste
+1,280,23862762,Will Financeira S.A.CFI
+1,281,76461557,CCR Coopavel
+1,283,89960090,RB Investimentos DTVM LTDA.
+1,285,71677850,Frente CC LTDA.
+1,286,07853842,CCR de Ouro
+1,288,62237649,Carol DTVM LTDA.
+1,289,94968518,EFX CC LTDA.
+1,290,08561701,Pagseguro Internet IP S.A.
+1,292,28650236,Bs2 DTVM S.A.
+1,293,71590442,Lastro RDV DTVM LTDA
+1,296,04062902,OZ Corretora de Câmbio S.A.
+1,298,17772370,Vips CC LTDA.
+1,299,04814563,Banco Sorocred S.A. - BM
+1,300,33042151,Banco la Nacion Argentina
+1,301,13370835,Dock IP S.A.
+1,306,40303299,Portopar DTVM LTDA
+1,307,03751794,Terra Investimentos DTVM
+1,309,14190547,Cambionet CC LTDA
+1,310,22610500,Vortx DTVM LTDA.
+1,311,76641497,Dourada Corretora
+1,312,07693858,Hscm SCMEPP LTDA.
+1,313,16927221,Amazônia CC LTDA.
+1,318,61186680,Banco BMG S.A.
+1,319,11495073,OM DTVM LTDA
+1,320,07450604,Banco Ccb Brasil S.A.
+1,321,18188384,Crefaz SCMEPP LTDA
+1,322,01073966,CCR de Abelardo Luz
+1,323,10573521,Mercado Pago IP LTDA.
+1,324,21332862,Cartos SCD S.A.
+1,325,13293225,Órama DTVM S.A.
+1,326,03311443,Parati - CFI S.A.
+1,328,05841967,CECM Fabric Calçados Sapiranga
+1,329,32402502,QI SCD S.A.
+1,330,00556603,Banco Bari S.A.
+1,331,13673855,Fram Capital DTVM S.A.
+1,332,13140088,Acesso Solucoes Pagamento SA
+1,335,27098060,Banco Digio
+1,336,31872495,Banco C6 S.A.
+1,340,09554480,Superdigital I.P. S.A.
+1,341,60701190,Itaú Unibanco S.A.
+1,342,32997490,Creditas SCD
+1,343,24537861,FFA SCMEPP LTDA.
+1,348,33264668,Banco XP S.A.
+1,349,27214112,Al5 S.A. CFI
+1,350,01330387,Crehnor Laranjeiras
+1,352,29162769,Toro CTVM S.A.
+1,355,34335592,Ótimo SCD S.A.
+1,358,09464032,Midway S.A. - SCFI
+1,359,05351887,Zema CFI S/A
+1,360,02276653,Trinus Capital DTVM
+1,362,01027058,Cielo IP S.A.
+1,363,62285390,Singulare CTVM S.A.
+1,364,09089356,Gerencianet
+1,365,68757681,Simpaul
+1,366,61533584,Banco Societe Generale Brasil
+1,367,34711571,Vitreo DTVM S.A.
+1,368,08357240,Banco CSF S.A.
+1,370,61088183,Banco Mizuho S.A.
+1,371,92875780,Warren Cvmc LTDA
+1,373,35977097,Up.p Sep S.A.
+1,374,27351731,Realize CFI S.A.
+1,376,33172537,Banco J.p. Morgan S.A.
+1,377,17826860,BMS SCD S.A.
+1,378,01852137,Banco Brasileiro de Crédito S.A.
+1,379,01658426,CECM Cooperforte
+1,380,22896431,Picpay
+1,381,60814191,Banco Mercedes-benz S.A.
+1,382,04307598,Fiducia SCMEPP LTDA
+1,383,21018182,Ebanx IP LTDA.
+1,384,11165756,Global SCM LTDA
+1,385,03844699,CECM Dos Trab.port. da G.vitor
+1,386,30680829,NU Financeira S.A. CFI
+1,387,03215790,Banco Toyota do Brasil S.A.
+1,389,17184037,Banco Mercantil do Brasil S.A.
+1,390,59274605,Banco GM S.A.
+1,391,08240446,CCR de Ibiam
+1,393,59109165,Banco Volkswagen S.A
+1,394,07207996,Banco Bradesco Financ. S.A.
+1,395,08673569,F D Gold DTVM LTDA
+1,396,13884775,Hub IP S.A.
+1,397,34088029,Listo SCD S.A.
+1,398,31749596,Ideal CTVM S.A.
+1,399,01701201,Kirton Bank
+1,400,05491616,Coop Creditag
+1,401,15111975,Iugu IP S.A.
+1,402,36947229,Cobuccio SCD S.A.
+1,403,37880206,Cora SCD S.A.
+1,404,37241230,Sumup SCD S.A.
+1,406,37715993,Accredito SCD S.A.
+1,407,00329598,Índigo Investimentos DTVM LTDA.
+1,408,36586946,Bonuspago SCD S.A.
+1,410,05684234,Planner Sociedade de Crédito Direto
+1,411,05192316,Via Certa Financiadora S.A. - CFI
+1,412,15173776,Social Bank S/A
+1,413,01858774,Banco BV S.A.
+1,414,37526080,Work SCD S.A.
+1,416,19324634,Lamara SCD S.A.
+1,418,37414009,Zipdin SCD S.A.
+1,419,38129006,Numbrs SCD S.A.
+1,421,39343350,CC Lar Credi
+1,422,58160789,Banco Safra S.A.
+1,423,00460065,Coluna S.A. DTVM
+1,425,03881423,Socinal S.A. CFI
+1,426,11285104,Biorc Financeira - CFI S.A.
+1,427,27302181,Cred-ufes
+1,428,39664698,Credsystem SCD S.A.
+1,429,05676026,Crediare CFI S.A.
+1,430,00204963,CCR Seara
+1,433,44077014,Br-capital DTVM S.A.
+1,435,38224857,Delcred SCD S.A.
+1,438,67030395,Trustee DTVM LTDA.
+1,439,16695922,ID CTVM
+1,440,82096447,Credibrf Coop
+1,442,87963450,Magnetis - DTVM
+1,443,39416705,Credihome SCD
+1,444,40654622,Trinus SCD S.A.
+1,445,35551187,Plantae CFI
+1,447,12392983,Mirae Asset CCTVM LTDA
+1,448,39669186,Hemera DTVM LTDA.
+1,449,37555231,Dmcard SCD S.A.
+1,450,13203354,Fitbank Pagamentos Eletronicos S.A.
+1,451,40475846,J17 - SCD S/A
+1,452,39676772,Credifit SCD S.A.
+1,454,41592532,Mérito DTVM LTDA.
+1,456,60498557,Banco Mufg Brasil S.A.
+1,457,39587424,UY3 SCD S/A
+1,458,07253654,Hedge Investments DTVM LTDA.
+1,459,04546162,CCM Serv. Públicos SP
+1,460,42047025,Unavanti SCD S/A
+1,461,19540550,Asaas IP S.A.
+1,462,39908427,Stark SCD S.A.
+1,463,40434681,Azumi DTVM
+1,464,60518222,Banco Sumitomo Mitsui Brasil S.A.
+1,465,40083667,Capital Consig SCD S.A.
+1,467,33886862,Master S/A CCTVM
+1,468,04862600,Portoseg S.A. CFI
+1,469,07138049,Liga Invest DTVM LTDA.
+1,470,18394228,CDC Sociedade de Crédito
+1,471,04831810,CECM Serv Publ Pinhão
+1,473,33466988,Banco Caixa Geral Brasil S.A.
+1,475,10371492,Banco Yamaha Motor S.A.
+1,477,33042953,Citibank N.A.
+1,478,11760553,Gazincred S.A. SCFI
+1,479,60394079,Banco Itaubank S.A.
+1,481,43599047,Superlógica SCD S.A.
+1,482,42259084,Sbcash SCD
+1,484,36864992,Maf DTVM SA
+1,487,62331228,Deutsche Bank S.a.bco Alemao
+1,488,46518205,Jpmorgan Chase Bank
+1,495,44189447,Banco la Provincia B Aires Bce
+1,505,32062580,Banco Credit Suisse S.A.
+1,506,42066258,RJI
+1,508,61384004,Avenue Securities DTVM LTDA.
+1,511,44683140,Magnum SCD
+1,512,36266751,Captalys DTVM LTDA.
+1,545,17352220,Senso CCVM S.A.
+1,600,59118133,Banco Luso Brasileiro S.A.
+1,604,31895683,Banco Industrial do Brasil S.A.
+1,610,78626983,Banco VR S.A.
+1,611,61820817,Banco Paulista S.A.
+1,612,31880826,Banco Guanabara S.A.
+1,613,60850229,Omni Banco S.A.
+1,623,59285411,Banco Pan
+1,626,61348538,Banco C6 Consig
+1,630,58497702,Banco Letsbank S.A.
+1,633,68900810,Banco Rendimento S.A.
+1,634,17351180,Banco Triangulo S.A.
+1,637,60889128,Banco Sofisa S.A.
+1,643,62144175,Banco Pine S.A.
+1,652,60872504,Itaú Unibanco Holding S.A.
+1,653,61024352,Banco Voiter
+1,654,92874270,Banco Digimais S.A.
+1,655,59588111,Banco Votorantim S.A.
+1,707,62232889,Banco Daycoval S.A
+1,712,78632767,Banco Ourinvest S.A.
+1,720,80271455,Banco RNX S.A.
+1,739,00558456,Banco Cetelem S.A.
+1,741,00517645,Banco Ribeirao Preto S.A.
+1,743,00795423,Banco Semear
+1,745,33479023,Banco Citibank S.A.
+1,746,30723886,Banco Modal S.A.
+1,747,01023570,Banco Rabobank Intl Brasil S.A.
+1,748,01181521,Banco Cooperativo Sicredi S.A.
+1,751,29030467,Scotiabank Brasil
+1,752,01522368,Banco BNP Paribas Brasil S A
+1,753,74828799,Novo Banco Continental S.A. - BM
+1,754,76543115,Banco Sistema
+1,755,62073200,Bofa Merrill Lynch BM S.A.
+1,756,02038232,Banco Sicoob S.A.
+1,757,02318507,Banco Keb Hana do Brasil S.A.
