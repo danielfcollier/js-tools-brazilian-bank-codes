@@ -1,17 +1,11 @@
-import { capitalizePhrase } from './utils/capitalize.js';
-import { readCSV, saveCSV, readJSON, saveJSON } from './utils/fileHandlers.js';
-import parseArguments from './utils/parseArguments.js';
+import { capitalizePhrase } from "./utils/capitalize.js";
+import { readCSV, saveCSV, readJSON, saveJSON } from "./utils/fileHandlers.js";
+import parseArguments from "./utils/parseArguments.js";
 
-import configurations from '../config.js';
+import configurations from "../config.js";
 
 const args = parseArguments();
-const {
-  inputCSV,
-  updatedCSV,
-  updatedJSON,
-  indentation,
-  configFile,
-} = args ?? {};
+const { inputCSV, updatedCSV, updatedJSON, indentation, configFile } = args ?? {};
 
 let config;
 if (configFile) {
@@ -20,7 +14,7 @@ if (configFile) {
   config = configurations;
 }
 
-const rawCSV = readCSV(inputCSV ?? config.inputCSV, { delimiter: ',', key: 3 });
+const rawCSV = readCSV(inputCSV ?? config.inputCSV, { delimiter: ",", key: 3 });
 const targetCSV = [];
 const header = config.schema;
 
@@ -47,19 +41,23 @@ const sorterMethod = (a, b) => {
 };
 const sortedCSV = [header, ...targetCSV.sort(sorterMethod)];
 const sortedMap = new Map();
-sortedCSV.forEach(element => sortedMap.set(element[columnKey - 1], element));
+sortedCSV.forEach((element) => sortedMap.set(element[columnKey - 1], element));
 
-try{
+try {
   saveCSV(sortedMap, updatedCSV ?? config.updatedCSV);
   console.log(`Generated file: ${updatedCSV ?? config.updatedCSV}`);
 } catch {
   console.log(`Error to generate file: ${updatedCSV ?? config.updatedCSV}`);
 }
 
-try{
-  saveJSON(sortedMap, config.schema, updatedJSON ?? config.updatedJSON, indentation ? parseInt(indentation, 10) : config.json.indentation);
+try {
+  saveJSON(
+    sortedMap,
+    config.schema,
+    updatedJSON ?? config.updatedJSON,
+    indentation ? parseInt(indentation, 10) : config.json.indentation
+  );
   console.log(`Generated file: ${updatedJSON ?? config.updatedJSON}`);
 } catch {
   console.log(`Error to generate file: ${updatedJSON ?? config.updatedJSON}`);
 }
-

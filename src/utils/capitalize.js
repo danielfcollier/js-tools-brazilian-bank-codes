@@ -1,7 +1,7 @@
-import capitalizationFilter from './capitalizationFilter.js';
+import capitalizationFilter from "./capitalizationFilter.js";
 
 function capitalizePhrase(phrase) {
-  const words = phrase.trim().split(' ');
+  const words = phrase.trim().split(" ");
   const wordConcatenation = (previous, current) => {
     if (previous) {
       return `${previous} ${current}`;
@@ -9,9 +9,7 @@ function capitalizePhrase(phrase) {
 
     return current;
   };
-  const capitalizedPhrase = words
-    .map(word => capitalizeWord(word, capitalizationFilter))
-    .reduce(wordConcatenation);
+  const capitalizedPhrase = words.map((word) => capitalizeWord(word, capitalizationFilter)).reduce(wordConcatenation);
 
   return capitalizedPhrase.trim();
 }
