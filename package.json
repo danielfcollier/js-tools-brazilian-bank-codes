@@ -1,7 +1,7 @@
 {
-  "name": "js-utils-brazillian-bank-codes",
+  "name": "js-tools-brazilian-bank-codes",
   "version": "1.0.0",
-  "description": "Generate JSON and CSV assets based on official Brazil Central Bank releases",
+  "description": "Generate a formatted CSV/JSON output with Brazilian Bank Codes from the official Central Bank's source",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielfcollier/js-utils-brazillian-bank-codes.git"
+    "url": "git+https://github.com/danielfcollier/js-tools-brazilian-bank-codes.git"
   },
   "keywords": [
-    "brazillian",
+    "brazilian",
     "banks",
     "json",
     "csv"
@@ -20,7 +20,7 @@
   "author": "Daniel Collier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielfcollier/js-utils-brazillian-bank-codes/issues"
+    "url": "https://github.com/danielfcollier/js-tools-brazilian-bank-codes/issues"
   },
-  "homepage": "https://github.com/danielfcollier/js-utils-brazillian-bank-codes#readme"
+  "homepage": "https://github.com/danielfcollier/js-tools-brazilian-bank-codes#readme"
 }
